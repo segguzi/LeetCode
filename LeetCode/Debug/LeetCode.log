@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(74,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(93,29): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(131,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(146,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(189,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(191,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(195,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(200,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(258,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(260,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(286,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(309,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(310,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\Visual Studio\LeetCode\myfuns.h(282,14): warning C4101: 'x': unreferenced local variable
+C:\Users\User\Documents\Visual Studio\LeetCode\main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LeetCode.vcxproj -> C:\Users\User\Documents\Visual Studio\LeetCode\Debug\LeetCode.exe
